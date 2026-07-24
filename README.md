@@ -50,4 +50,4 @@ All credit for the underlying concepts, structure, and course content belongs to
 
 ---
 
-*This repository will continue to be updated as I progress through the course.*
+![Certificate](CertificateOfCompletion_Quantum_Computing_Fundamentals.pdf)
