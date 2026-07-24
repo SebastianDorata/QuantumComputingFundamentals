@@ -1,5 +1,8 @@
 # Quantum Computing Fundamentals — Self-Learning Notes
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sebastian-dorata-5013b6297_quantumcomputing-share-7486536168033964033-xAug/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfIulEBFee_AmIC7rSD54Gw9uVajttQP80)
+
+
 This repository contains my personal notes and progress from working through **[Quantum Computing Fundamentals](https://www.linkedin.com/learning/quantum-computing-fundamentals)** by Barron Stone and Olivia Stone on LinkedIn Learning.
 
 > **Status:** This course has not been completed yet. Notes will be added and updated as I work through each section.
