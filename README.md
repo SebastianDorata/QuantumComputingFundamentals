@@ -5,13 +5,11 @@
 
 This repository contains my personal notes and progress from working through **[Quantum Computing Fundamentals](https://www.linkedin.com/learning/quantum-computing-fundamentals)** by Barron Stone and Olivia Stone on LinkedIn Learning.
 
-> **Status:** This course has not been completed yet. Notes will be added and updated as I work through each section.
-
 ---
 
-## Why I'm Taking This Course
+## Why I Took This Course
 
-A few weeks ago, while scrolling on TikTok, a creator I follow ([@ccna.with.kevin](https://www.tiktok.com/@ccna.with.kevin/video/7649860310437727501?_r=1&_t=ZS-97aWvjzJLeh)) posted a video about quantum networking. I had never heard of the topic before, and it immediately caught my interest.
+While scrolling on TikTok, a creator I follow ([@ccna.with.kevin](https://www.tiktok.com/@ccna.with.kevin/video/7649860310437727501?_r=1&_t=ZS-97aWvjzJLeh)) posted a video about quantum networking. I had never heard of the topic before, and it immediately caught my interest.
 
 Over the next few days, I began exploring the topic by watching YouTube videos, most notably two Cisco Live lectures by Tim Szigeti, Distinguished Engineer at Cisco Systems:
 
